@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "strict":true,
+        "rootDirs": [
+            "./"
+        ],
+        "outDir": "./dist"
+    },
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules"
+    ],
+    
+}
